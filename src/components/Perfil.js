@@ -1,4 +1,4 @@
-import React, {useSate, useEffect, useState} from "react";
+import React, {useState, useEffect, useState} from "react";
 
 const Perfil =() =>{
     // contador de likes
